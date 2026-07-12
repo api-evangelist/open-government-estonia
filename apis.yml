@@ -23,6 +23,8 @@ apis:
       - type: Documentation
         url: https://avaandmed.eesti.ee/instructions/opendata-dataset-api
 common:
+  - type: DomainSecurity
+    url: security/open-government-estonia-domain-security.yml
   - type: Website
     url: https://avaandmed.eesti.ee/instructions/opendata-dataset-api
   - type: PublicAPIsListing
