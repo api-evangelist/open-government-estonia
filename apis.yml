@@ -39,7 +39,6 @@ apis:
   - name: Open Government, Estonia
     description: "Estonia Government Open Data"
     humanURL: https://avaandmed.eesti.ee/instructions/opendata-dataset-api
-    baseURL: https://avaandmed.eesti.ee/instructions/opendata-dataset-api
     tags:
       - Government
     properties:
